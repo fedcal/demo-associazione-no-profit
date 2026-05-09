@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Associazione No-profit** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://associazione-no-profit.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-associazione-no-profit/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-associazione-no-profit/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-associazione-no-profit.git
-cd federico-demo-associazione-no-profit
+git clone https://github.com/fedcal/demo-associazione-no-profit.git
+cd demo-associazione-no-profit
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:associazione-no-profit
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-associazione-no-profit/
+→ https://fedcal.github.io/demo-associazione-no-profit/
 
 ## Hub demos Federico
 

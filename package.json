@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-associazione-no-profit",
+  "name": "demo-associazione-no-profit",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Associazione No-profit — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://associazione-no-profit.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-associazione-no-profit.git"
+    "url": "https://github.com/fedcal/demo-associazione-no-profit.git"
   },
   "scripts": {
     "ng": "ng",

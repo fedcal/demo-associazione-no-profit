@@ -3,7 +3,7 @@
 ## Struttura cartelle
 
 ```
-federico-demo-associazione-no-profit/
+demo-associazione-no-profit/
 ├── api/
 │   └── index.js              # Vercel serverless function entry SSR
 ├── docs/                     # VitePress docs site (questo sito)
