@@ -1,0 +1,52 @@
+{
+  "ragioneSociale": "Associazione Famiglie Insieme APS",
+  "nomeCommerciale": "Famiglie Insieme",
+  "tagline": "Sostegno famiglie fragili dal 1995",
+  "runts": {
+    "codice": "TS-PI-00142/2022",
+    "sezione": "Associazioni di Promozione Sociale",
+    "dataIscrizione": "2022-03-15"
+  },
+  "codiceFiscale": "97043210014",
+  "piva": null,
+  "fondazione": 1995,
+  "indirizzo": {
+    "via": "Via Garibaldi 88",
+    "citta": "Torino",
+    "provincia": "TO",
+    "cap": "10122",
+    "regione": "Piemonte",
+    "paese": "Italia",
+    "lat": 45.0703,
+    "lng": 7.6869
+  },
+  "contatti": {
+    "telefono": "+39 011 555 7890",
+    "email": "info@famiglieinsieme.org",
+    "emailDonazioni": "donazioni@famiglieinsieme.org",
+    "social": {
+      "facebook": "https://www.facebook.com/famiglieinsieme",
+      "instagram": "https://www.instagram.com/famiglieinsieme"
+    }
+  },
+  "orari": {
+    "lunedi": "9:00 – 18:00",
+    "martedi": "9:00 – 18:00",
+    "mercoledi": "9:00 – 18:00",
+    "giovedi": "9:00 – 18:00",
+    "venerdi": "9:00 – 17:00",
+    "sabato": "Chiuso",
+    "domenica": "Chiuso"
+  },
+  "stats": {
+    "anniAttivita": 30,
+    "famiglieAiutate": 1240,
+    "volontariAttivi": 35,
+    "progettiAttivi": 6
+  },
+  "metaSeo": {
+    "title": "Famiglie Insieme APS — Sostegno famiglie fragili Torino dal 1995",
+    "description": "Associazione di promozione sociale iscritta al RUNTS. Doposcuola gratuito, sportello psicologico, food bank, minori, anziani, formazione.",
+    "keywords": ["associazione no-profit Torino", "sostegno famiglie fragili", "doposcuola gratuito", "APS RUNTS", "5x1000", "volontariato Torino"]
+  }
+}

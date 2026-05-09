@@ -1,0 +1,44 @@
+{
+  "faq": [
+    {
+      "domanda": "Come funziona il 5x1000?",
+      "risposta": "Il 5x1000 è una destinazione facoltativa di una quota dell'IRPEF che non ti costa nulla: lo Stato devolve il 5 per mille della tua imposta a un ente non-profit di tua scelta. Inserisci il nostro codice fiscale 97043210014 nell'apposito riquadro della dichiarazione dei redditi (modello 730, CU o Redditi PF). Non è una tassa in più, è solo decidere dove vanno queste risorse.",
+      "categoria": "Donazioni"
+    },
+    {
+      "domanda": "Come posso fare una donazione?",
+      "risposta": "Puoi donare tramite bonifico bancario (IBAN IT60 G030 6909 6061 0000 0013 900, intestato a Associazione Famiglie Insieme APS), con carta di credito/PayPal tramite la pagina donazioni online, o con assegno bancario intestato all'associazione. Tutte le donazioni di persone fisiche sono detraibili al 35% fino a €30.000 annui ai sensi del D.Lgs. 117/2017.",
+      "categoria": "Donazioni"
+    },
+    {
+      "domanda": "Le donazioni sono fiscalmente detraibili?",
+      "risposta": "Sì. Le donazioni a favore di Associazioni di Promozione Sociale iscritte al RUNTS sono detraibili dall'IRPEF al 35% dell'importo donato, fino a un massimo di €30.000 l'anno (art. 83 D.Lgs. 117/2017 — Codice del Terzo Settore). Per donazioni superiori a €2.500 emettiamo ricevuta fiscale. Per importi inferiori, la ricevuta è disponibile su richiesta.",
+      "categoria": "Donazioni"
+    },
+    {
+      "domanda": "Come posso diventare volontario?",
+      "risposta": "Compila il modulo online nella sezione 'Diventa volontario' indicando le tue competenze e la tua disponibilità. Riceverai un'email entro 5 giorni lavorativi. Seguirà un breve colloquio conoscitivo con il coordinatore e, per le attività a contatto con minori, la verifica del certificato penale del casellario giudiziario (richiesta gratuita). Tutti i nuovi volontari partecipano a un corso di accoglienza di 4 ore.",
+      "categoria": "Volontariato"
+    },
+    {
+      "domanda": "Cos'è la tessera associativa e a cosa dà diritto?",
+      "risposta": "La tessera associativa costa €25 l'anno e ti rende socio ordinario dell'associazione. I soci hanno diritto di voto in assemblea, ricevono il bilancio sociale annuale, possono partecipare agli eventi riservati ai soci e hanno accesso prioritario ai corsi di formazione organizzati per il personale. La tessera è rinnovabile ogni anno a gennaio.",
+      "categoria": "Associarsi"
+    },
+    {
+      "domanda": "Dove vengono pubblicati i bilanci e i documenti di trasparenza?",
+      "risposta": "Siamo iscritti al Registro Unico Nazionale del Terzo Settore (RUNTS) e pubblichiamo annualmente il bilancio di esercizio, il bilancio sociale e il rendiconto dei fondi 5x1000 sul portale RUNTS e sul nostro sito. Puoi scaricare i documenti degli ultimi 5 anni dalla sezione 'Trasparenza' del sito. La trasparenza è un valore fondante della nostra associazione.",
+      "categoria": "Trasparenza"
+    },
+    {
+      "domanda": "Come posso segnalare una famiglia o persona che ha bisogno di aiuto?",
+      "risposta": "Puoi segnalare scrivendo a info@famiglieinsieme.org o chiamando il numero +39 011 555 7890 negli orari di apertura (lun-ven 9-18). La segnalazione può essere anonima. Il coordinatore valuterà la situazione e ti contatterà entro 48 ore per un primo orientamento. Per situazioni urgenti, ti invitiamo a contattare anche il Servizio Sociale del Comune di Torino.",
+      "categoria": "Servizi"
+    },
+    {
+      "domanda": "I vostri servizi sono gratuiti per tutte le famiglie?",
+      "risposta": "Tutti i servizi dell'associazione sono gratuiti per le famiglie beneficiarie. Per il doposcuola e lo sportello psicologico viene effettuata una valutazione sulla base dell'ISEE familiare. Per il food bank, la distribuzione è vincolata alla tessera dell'Emporio Solidale. Per gli altri servizi, il Coordinatore fa una valutazione personalizzata. Nessuna famiglia viene mai esclusa per ragioni economiche.",
+      "categoria": "Servizi"
+    }
+  ]
+}

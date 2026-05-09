@@ -1,0 +1,54 @@
+{
+  "dipendenti": [
+    {
+      "id": 1,
+      "nome": "Marta Ferrero",
+      "ruolo": "Direttrice",
+      "bio": "Assistente sociale con 22 anni di esperienza nel terzo settore torinese. Guida l'associazione dal 2010 con visione strategica e profonda conoscenza del territorio.",
+      "anniEsperienza": 22,
+      "specialita": ["Gestione organizzativa", "Progettazione sociale", "Rendicontazione fondi"]
+    },
+    {
+      "id": 2,
+      "nome": "Luca Brunetti",
+      "ruolo": "Coordinatore Progetti",
+      "bio": "Educatore professionale, coordina i sei progetti dell'associazione e mantiene i rapporti con i servizi sociali comunali e le scuole partner.",
+      "anniEsperienza": 14,
+      "specialita": ["Coordinamento équipe", "Tutela minori", "Reti territoriali"]
+    },
+    {
+      "id": 3,
+      "nome": "Giulia Sacco",
+      "ruolo": "Responsabile Comunicazione e Raccolta Fondi",
+      "bio": "Esperta in fundraising e comunicazione nonprofit. Gestisce le campagne 5x1000, le donazioni online e la comunicazione sui social network.",
+      "anniEsperienza": 9,
+      "specialita": ["Fundraising", "Comunicazione digitale", "5x1000"]
+    },
+    {
+      "id": 4,
+      "nome": "Andrea Pastori",
+      "ruolo": "Amministrativo e Contabilità",
+      "bio": "Gestisce la contabilità dell'ente, la rendicontazione dei progetti finanziati e i rapporti con il commercialista per il bilancio sociale annuale.",
+      "anniEsperienza": 11,
+      "specialita": ["Contabilità ETS", "Rendicontazione", "Bilancio sociale"]
+    }
+  ],
+  "volontari": {
+    "totale": 35,
+    "attivi": 28,
+    "neoIscritti": 7,
+    "fasceEta": [
+      { "fascia": "18-30 anni", "numero": 9 },
+      { "fascia": "31-50 anni", "numero": 14 },
+      { "fascia": "51-70 anni", "numero": 10 },
+      { "fascia": "70+ anni", "numero": 2 }
+    ],
+    "areeDiImpegno": [
+      { "area": "Doposcuola", "numero": 12 },
+      { "area": "Food Bank", "numero": 8 },
+      { "area": "Anziani", "numero": 11 },
+      { "area": "Formazione", "numero": 9 },
+      { "area": "Supporto Amministrativo", "numero": 3 }
+    ]
+  }
+}
